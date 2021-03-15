@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/hongdaehyeon/Desktop/flutterProj/share_product/share_product_v2/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/hongdaehyeon/.gradle/caches/transforms-2/files-2.1/b5ab5ad438002691fe7469c43908cb97/core-1.1.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/hongdaehyeon/Desktop/flutterProj/share_product/share_product_v2/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/hongdaehyeon/.gradle/caches/transforms-2/files-2.1/b5ab5ad438002691fe7469c43908cb97/core-1.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/hongdaehyeon/Desktop/flutterProj/share_product/share_product_v2/build/url_launcher/intermediates/res/merged/debug/layout/custom_dialog.xml",
+        "source": "/Users/hongdaehyeon/.gradle/caches/transforms-2/files-2.1/b5ab5ad438002691fe7469c43908cb97/core-1.1.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/hongdaehyeon/Desktop/flutterProj/share_product/share_product_v2/build/url_launcher/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/hongdaehyeon/.gradle/caches/transforms-2/files-2.1/b5ab5ad438002691fe7469c43908cb97/core-1.1.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/hongdaehyeon/Desktop/flutterProj/share_product/share_product_v2/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/hongdaehyeon/.gradle/caches/transforms-2/files-2.1/b5ab5ad438002691fe7469c43908cb97/core-1.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/hongdaehyeon/Desktop/flutterProj/share_product/share_product_v2/build/url_launcher/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/hongdaehyeon/.gradle/caches/transforms-2/files-2.1/b5ab5ad438002691fe7469c43908cb97/core-1.1.0/res/layout/notification_action_tombstone.xml"
+    }
+]
